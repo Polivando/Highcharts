@@ -1,0 +1,26 @@
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\Highcharts.exe.config
+N:\Polina\Highcharts\Highcharts\bin\Debug\Highcharts.exe.config
+N:\Polina\Highcharts\Highcharts\bin\Debug\Highcharts.exe
+N:\Polina\Highcharts\Highcharts\bin\Debug\Highcharts.pdb
+N:\Polina\Highcharts\Highcharts\bin\Debug\nunit.framework.dll
+N:\Polina\Highcharts\Highcharts\bin\Debug\WebDriver.dll
+N:\Polina\Highcharts\Highcharts\bin\Debug\WebDriver.Support.dll
+N:\Polina\Highcharts\Highcharts\bin\Debug\nunit.framework.xml
+N:\Polina\Highcharts\Highcharts\bin\Debug\WebDriver.xml
+N:\Polina\Highcharts\Highcharts\bin\Debug\WebDriver.Support.xml
+N:\Polina\Highcharts\Highcharts\obj\Debug\Highcharts.csprojResolveAssemblyReference.cache
+N:\Polina\Highcharts\Highcharts\obj\Debug\Highcharts.exe
+N:\Polina\Highcharts\Highcharts\obj\Debug\Highcharts.pdb
+N:\Polina\Highcharts\Highcharts\bin\Debug\chromedriver.exe
+F:\Studio Projects\Highcharts\Highcharts\obj\Debug\Highcharts.exe
+F:\Studio Projects\Highcharts\Highcharts\obj\Debug\Highcharts.pdb
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\chromedriver.exe
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\Highcharts.exe
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\Highcharts.pdb
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\nunit.framework.dll
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\WebDriver.dll
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\WebDriver.Support.dll
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\nunit.framework.xml
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\WebDriver.xml
+F:\Studio Projects\Highcharts\Highcharts\bin\Debug\WebDriver.Support.xml
+F:\Studio Projects\Highcharts\Highcharts\obj\Debug\Highcharts.csprojResolveAssemblyReference.cache

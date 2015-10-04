@@ -1,0 +1,266 @@
+30.09.2015 23:00:12 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+6 employees
+7 employees
+7 employees
+9 employees
+10 employees
+10 employees
+11 employees
+01.10.2015 17:51:47 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+6 employees
+7 employees
+7 employees
+9 employees
+10 employees
+10 employees
+11 employees
+01.10.2015 17:54:36 executing test for green graph
+1 employees
+01.10.2015 18:05:28 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+01.10.2015 22:57:26 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+01.10.2015 23:11:27 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+02.10.2015 19:53:03 executing test for green graph
+02.10.2015 20:19:22 executing test for green graph
+1 employees
+02.10.2015 20:23:48 executing test for green graph
+02.10.2015 20:26:13 executing test for green graph
+1 employees
+2 employees
+3 employees
+5 employees
+5 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+11 employees
+Test passed
+02.10.2015 20:28:29 executing test for green graph
+1 employees
+2 employees
+3 employees
+5 employees
+5 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+11 employees
+Test passed
+02.10.2015 20:34:48 executing test for green graph
+1 employees
+2 employees
+3 employees
+Position error at level 5 employees
+Test failed
+02.10.2015 20:35:57 executing test for green graph
+1 employees
+2 employees
+3 employees
+5 employees
+5 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+11 employees
+Test passed
+02.10.2015 20:51:40 executing test for green graph
+1 employees
+2 employees
+3 employees
+5 employees
+5 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+11 employees
+Test passed
+02.10.2015 20:55:38 executing test for green graph
+1 employees
+2 employees
+3 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+10 employees
+10 employees
+11 employees
+11 employees
+Test passed
+02.10.2015 20:57:01 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+Test passed
+02.10.2015 20:58:52 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+Position error at level 5 employees
+Test failed
+02.10.2015 21:00:38 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+Position error at level 6 employees
+Test failed
+02.10.2015 21:01:40 executing test for green graph
+Position error at level 1 employees
+Test failed
+02.10.2015 21:02:23 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+Position error at level 6 employees
+Test failed
+02.10.2015 21:03:22 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+Position error at level 6 employees
+Test failed
+02.10.2015 21:04:46 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+Test passed
+02.10.2015 21:07:30 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+Position error at level 11 employees
+Test failed
+02.10.2015 21:08:35 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+Test passed
+02.10.2015 21:12:11 executing test for green graph
+1 employees
+2 employees
+3 employees
+4 employees
+5 employees
+6 employees
+5 employees
+6 employees
+7 employees
+8 employees
+9 employees
+10 employees
+11 employees
+Test passed
